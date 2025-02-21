@@ -3,10 +3,10 @@ import { useState,useEffect } from 'react'
 
 
 const images=[
-    './src/assets/7.jpg',
-    './src/assets/8.jpg',
-    './src/assets/10.jpg',
-    './src/assets/11.jpg',
+    '/src/assets/7.jpg',
+    '/src/assets/8.jpg',
+    '/src/assets/10.jpg',
+    '/src/assets/11.jpg',
 ];
 
 
